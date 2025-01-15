@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Tidy Bio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - contact.qmd
+  page-footer: "Copyright 2025, V Chong-Morrison" 
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+editor: visual
+

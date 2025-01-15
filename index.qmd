@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Tidy Bio strives to provide professional and pragmatic solutions for biomedical research activities.
+
+**Lead**<br> [Dr V Chong-Morrison](https://www.rdm.ox.ac.uk/people/vanessa-mae-ren-chong/view)<br>
+
+To learn more about my technical work visit <https://vchongmorrison.github.io/>.
