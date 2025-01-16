@@ -9,11 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - contact.qmd
-  page-footer: "Copyright 2025, V Chong-Morrison" 
+  page-footer: "Copyright 2025 | Tidy Bio Ltd | V Chong-Morrison" 
 
 format:
   html:
-    theme: sandstone
+    theme: flatly
     css: styles.css
     toc: true
 
