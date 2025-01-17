@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Tidy Bio"
+  favicon: tidybio.png
   navbar:
     left:
       - href: index.qmd
@@ -16,6 +17,9 @@ format:
     theme: flatly
     css: styles.css
     toc: true
+
+margin-header: |
+  ![](/tidybio.png)
 
 editor: visual
 
