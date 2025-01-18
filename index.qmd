@@ -1,8 +1,26 @@
 ---
 title: "About"
+about:
+  template: jolla
+  image: tidybio.png
+  image-shape: rectangle
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/vanessa-chong-morrison
+      text: LinkedIn
+      aria-label: LinkedIn
+    - icon: github
+      href: https://github.com/vchongmorrison
+      text: GitHub
+      aria-label: GitHub
+    - icon: mastodon
+      href: https://biologists.social/@ChongMorrison
+      text: Mastodon
+      aria-label: mastodon
+
 ---
 
-Tidy Bio offers professional and pragmatic solutions for biomedical research activities.
+Professional and pragmatic solutions for biomedical research activities.
 
 ### Lead
 
@@ -10,4 +28,4 @@ Tidy Bio offers professional and pragmatic solutions for biomedical research act
 
 ### Skills and expertise
 
-A curation of my work can be found at <https://vchongmorrison.github.io/>.
+A curation of my scientific work can be found at <https://vchongmorrison.github.io/>.

@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Tidy Bio"
+  open-graph: true
+  image: tidybio.png
   favicon: tidybio.png
   navbar:
     logo: tidybio.png
@@ -18,17 +20,17 @@ website:
       - icon: github
         href: https://github.com/vchongmorrison
         aria-label: GitHub
+      - icon: mastodon
+        href: https://biologists.social/@ChongMorrison
+        aria-label: mastodon
       
-  page-footer: "Copyright 2025 | Tidy Bio Ltd | V Chong-Morrison" 
+  #page-footer: "Copyright 2025 | Tidy Bio Ltd" 
 
 format:
   html:
     theme: flatly
     css: styles.css
     toc: true
-
-margin-header: |
-  ![](/tidybio.png)
 
 editor: visual
 
