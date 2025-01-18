@@ -6,10 +6,19 @@ website:
   title: "Tidy Bio"
   favicon: tidybio.png
   navbar:
+    logo: tidybio.png
     left:
       - href: index.qmd
         text: Home
       - contact.qmd
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/vanessa-chong-morrison
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/vchongmorrison
+        aria-label: GitHub
+      
   page-footer: "Copyright 2025 | Tidy Bio Ltd | V Chong-Morrison" 
 
 format:

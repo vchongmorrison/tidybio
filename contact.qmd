@@ -2,4 +2,6 @@
 title: "Contact"
 ---
 
+### Email
+
 v.chongmorrison \[at\] tidybio.co.uk
