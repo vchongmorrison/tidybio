@@ -17,7 +17,6 @@ about:
       href: https://biologists.social/@ChongMorrison
       text: Mastodon
       aria-label: mastodon
-
 ---
 
 Professional and pragmatic solutions for biomedical research activities.
