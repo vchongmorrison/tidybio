@@ -24,7 +24,7 @@ website:
         href: https://biologists.social/@ChongMorrison
         aria-label: mastodon
       
-  #page-footer: "Copyright 2025 | Tidy Bio Ltd" 
+  page-footer: "Copyright 2025 Tidy Bio Ltd | Company No. 16116809 | VAT GB483258762" 
 
 format:
   html:
